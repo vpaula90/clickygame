@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "AJ",
+      "image": "/images/A.J._McLean.jpg",
+      "occupation": "Backstreet Boy",
+      "location": "LA"
+    },
+    {
+      "id": 2,
+      "name": "Brian",
+      "image": "/images/brian.jpg",
+      "occupation": "Backstreet Boy",
+      "location": "LA"
+    },
+    {
+      "id": 3,
+      "name": "Kevin",
+      "image": "/images/kevin.jpg",
+      "occupation": "Backstreet Boy",
+      "location": "LA"
+    },
+    {
+      "id": 4,
+      "name": "Howie",
+      "image": "/images/howie.jpg",
+      "occupation": "Backstreet Boy",
+      "location": "LA"
+    },
+    {
+      "id": 5,
+      "name": "Nick",
+      "image": "/images/nick.jpeg",
+      "occupation": "Backstreet Boy",
+      "location": "LA"
+    },
+    {
+      "id": 6,
+      "name": "Posh",
+      "image": "/images/posh.jpg",
+      "occupation": "Spice Girl",
+      "location": "London"
+    },
+    {
+      "id": 7,
+      "name": "Baby",
+      "image": "/images/baby.jpg",
+      "occupation": "Spice Girl",
+      "location": "London"
+    },
+    {
+      "id": 8,
+      "name": "Sporty",
+      "image": "/images/sporty.jpg",
+      "occupation": "Spice Girl",
+      "location": "London"
+    },
+    {
+      "id": 9,
+      "name": "Scary",
+      "image": "/images/scary.jpg",
+       "occupation": "Spice Girl",
+      "location": "London"
+    },
+    {
+      "id": 10,
+      "name": "Ginger",
+      "image": "/images/ginger.png",
+      "occupation": "Spice Girl",
+      "location": "London"
+    },
+    {
+      "id": 11,
+      "name": "Britney",
+      "image": "/images/britney.jpg",
+      "occupation": "Singer",
+      "location": "Las Vegas"
+    },
+    {
+      "id": 12,
+      "name": "Christina",
+      "image": "/images/christina-aguilera-may-2018-b-bbmas-billboard-1548.jpg",
+      "occupation": "Singer",
+      "location": "Los Angeles"
+    }
+  ]
